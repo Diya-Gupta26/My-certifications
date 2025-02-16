@@ -1,2 +1,2 @@
 # My-Certifications
-This repository is intended to showcase some of my Techinical and Non Technical certifications.
+kindly have a look over this repository, that is intended to showcase some of my Techinical and Non Technical certifications.
